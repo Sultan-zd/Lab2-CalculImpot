@@ -18,8 +18,7 @@ L'application propose un formulaire simple permettant à l'utilisateur de :
   * *Supplément : 50 DH par pièce + 100 DH si présence d'une piscine.*
 
 ## Aperçu
-*(Remplace le lien ci-dessous par une capture d'écran de ton application en fonctionnement !)*
-![Capture d'écran de l'application](https://via.placeholder.com/250x500.png?text=Ajouter+une+capture+ici)
+![Capture d'écran de l'application](Screenshot 2026-03-21 235144.png)
 
 ## Concepts techniques abordés
 Ce projet m'a permis d'approfondir la manipulation de l'interface utilisateur et la logique métier en Java :
