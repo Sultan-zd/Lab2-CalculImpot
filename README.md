@@ -1,14 +1,14 @@
-# LAB 2 - Calculateur d'Impôts Locaux 🏠💰
+# LAB 2 - Calculateur d'Impôts Locaux
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## 📖 À propos du projet
+## À propos du projet
 Ce projet est le deuxième laboratoire de mon apprentissage en **Programmation Mobile : Android avec Java**. 
 
 L'objectif de cette application est de calculer automatiquement le montant des impôts locaux d'une habitation en se basant sur les saisies de l'utilisateur (surface, nombre de pièces et équipements). Ce lab marque une évolution par rapport au précédent en introduisant la récupération de données saisies au clavier et la conversion de types (String vers Nombres).
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 L'application propose un formulaire simple permettant à l'utilisateur de :
 * **Saisir la surface** de la maison en m² (clavier numérique).
 * **Saisir le nombre de pièces** (clavier numérique).
@@ -17,11 +17,11 @@ L'application propose un formulaire simple permettant à l'utilisateur de :
   * *Base : Surface × 2 DH*
   * *Supplément : 50 DH par pièce + 100 DH si présence d'une piscine.*
 
-## 📸 Aperçu
+## Aperçu
 *(Remplace le lien ci-dessous par une capture d'écran de ton application en fonctionnement !)*
 ![Capture d'écran de l'application](https://via.placeholder.com/250x500.png?text=Ajouter+une+capture+ici)
 
-## 🛠️ Concepts techniques abordés
+## Concepts techniques abordés
 Ce projet m'a permis d'approfondir la manipulation de l'interface utilisateur et la logique métier en Java :
 * **Conception UI (XML) :**
   * Utilisation du composant `EditText` pour la saisie de texte.
@@ -33,7 +33,11 @@ Ce projet m'a permis d'approfondir la manipulation de l'interface utilisateur et
   * Utilisation de l'opérateur ternaire `(condition ? vrai : faux)` pour une logique conditionnelle concise.
   * Prévention des erreurs (nécessité de gérer les champs vides pour éviter les crashs de type *NumberFormatException*).
 
-## 🚀 Comment lancer le projet en local
+## Comment lancer le projet en local
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
    git clone [https://github.com/VOTRE_NOM_UTILISATEUR/Lab2-CalculImpot.git](https://github.com/VOTRE_NOM_UTILISATEUR/Lab2-CalculImpot.git)
+2. Ouvrez Android Studio.
+3. Sélectionnez File > Open et choisissez le dossier du projet cloné.
+4. Laissez Gradle synchroniser les dépendances.
+5. Cliquez sur le bouton Run (le triangle vert) pour lancer l'application sur un émulateur ou un appareil physique.
