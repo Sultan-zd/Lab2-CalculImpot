@@ -35,7 +35,7 @@ Ce projet m'a permis d'approfondir la manipulation de l'interface utilisateur et
 ## Comment lancer le projet en local
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone ![https://github.com/Sultan-zd/Lab2-CalculImpot.git](https://github.com/Sultan-zd/Lab2-CalculImpot.git)
+   git clone https://github.com/Sultan-zd/Lab2-CalculImpot.git
 2. Ouvrez Android Studio.
 3. Sélectionnez File > Open et choisissez le dossier du projet cloné.
 4. Laissez Gradle synchroniser les dépendances.
