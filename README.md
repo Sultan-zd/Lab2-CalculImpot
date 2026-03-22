@@ -18,7 +18,7 @@ L'application propose un formulaire simple permettant à l'utilisateur de :
   * *Supplément : 50 DH par pièce + 100 DH si présence d'une piscine.*
 
 ## Aperçu
-![Capture d'écran de l'application](Screenshot 2026-03-21 235144.png)
+![Capture d'écran de l'application](Screenshot.png)
 
 ## Concepts techniques abordés
 Ce projet m'a permis d'approfondir la manipulation de l'interface utilisateur et la logique métier en Java :
@@ -35,7 +35,7 @@ Ce projet m'a permis d'approfondir la manipulation de l'interface utilisateur et
 ## Comment lancer le projet en local
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone [https://github.com/VOTRE_NOM_UTILISATEUR/Lab2-CalculImpot.git](https://github.com/VOTRE_NOM_UTILISATEUR/Lab2-CalculImpot.git)
+   git clone ![https://github.com/Sultan-zd/Lab2-CalculImpot.git](https://github.com/Sultan-zd/Lab2-CalculImpot.git)
 2. Ouvrez Android Studio.
 3. Sélectionnez File > Open et choisissez le dossier du projet cloné.
 4. Laissez Gradle synchroniser les dépendances.
